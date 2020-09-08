@@ -1,8 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to Samir's Github page
 
-You can use the [editor on GitHub](https://github.com/saksekar/saksekar/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Documented here are my chronicles on my full stack web developer journey. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#8th Sept'20
+## The Journey commences
 
 ### Markdown
 
